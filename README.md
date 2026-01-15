@@ -1,5 +1,7 @@
 # Sort-Algorithms
 
+A collection of different sorting algorithms for a series of articles appearing in c't magazine and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online here!!!.
+
 ## Copyright
 
 Copyright ©️ 2025 Wilhelm Drehling, Heise Medien GmbH & Co. KG
