@@ -31,8 +31,8 @@ def mergesort_recursive(arr, start, end):
 
     # splitte Liste rekursiv
     mid = (start + end) // 2
-    a1 = mergesort_recursive(arr, start, mid)
-    a2 = mergesort_recursive(arr, mid, end)
+    mergesort_recursive(arr, start, mid)
+    mergesort_recursive(arr, mid, end)
 
     # verschmelze zwei Listen
     merge(arr, start, mid, end)
