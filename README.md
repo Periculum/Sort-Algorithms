@@ -1,10 +1,10 @@
 # Sort-Algorithms
 
-A collection of different sorting algorithms for a series of articles appearing in c't magazine and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online here!!!.
+A collection of different sorting algorithms for a series of articles appearing in c't magazine and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Wie-Bubblesort-Quicksort-und-Mergesort-funktionieren-11129575.html).
 
 ## Copyright
 
-Copyright ©️ 2025 Wilhelm Drehling, Heise Medien GmbH & Co. KG
+Copyright ©️ 2026 Wilhelm Drehling, Heise Medien GmbH & Co. KG
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
