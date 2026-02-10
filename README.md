@@ -1,6 +1,8 @@
 # Sort-Algorithms
 
-A collection of different sorting algorithms for a series of articles appearing in c't magazine and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Wie-Bubblesort-Quicksort-und-Mergesort-funktionieren-11129575.html).
+A collection of different sorting algorithms for a series of articles appearing in c't magazine (c't 4/2026, S. 138) and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Wie-Bubblesort-Quicksort-und-Mergesort-funktionieren-11129575.html).
+
+The second explains inertion sort, binary search and tim sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Was-Timsort-so-schnell-macht-11129587.html).
 
 ## Copyright
 
