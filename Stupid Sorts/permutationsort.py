@@ -5,9 +5,8 @@ from itertools import permutations
 def permutationsort(a):
     p = list(permutations(a))
     for perm in p:
-        for n in range(len(a) - 1):
-            if check_if_sorted(perm):
-                return perm
+        if check_if_sorted(perm):
+            return perm
 
 def check_if_sorted(a):
     for n in range(len(a) - 1):
@@ -20,4 +19,5 @@ def main():
     print(permutationsort(a))
 
 if __name__ == '__main__':
+
     main()
