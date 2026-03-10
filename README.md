@@ -1,8 +1,10 @@
 # Sort-Algorithms
 
-A collection of different sorting algorithms for a series of articles appearing in c't magazine (c't 4/2026, S. 138) and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Wie-Bubblesort-Quicksort-und-Mergesort-funktionieren-11129575.html).
+A collection of different sorting algorithms for a series of articles appearing in the german c't magazine and on heise online. The first deals with bubble sort, quick sort and merge sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Wie-Bubblesort-Quicksort-und-Mergesort-funktionieren-11129575.html) and offline in c't 4/2026, Seite 138.
 
-The second explains insertion sort, binary search and tim sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Was-Timsort-so-schnell-macht-11129587.html).
+The second explains insertion sort, binary search and tim sort. You can find the article online [here](https://www.heise.de/hintergrund/Sortieralgorithmen-Was-Timsort-so-schnell-macht-11129587.html) and offline in c't 5/2026, Seite 128.
+
+The third article ([online on heise+](https://www.heise.de/hintergrund/Sortieralgorithmen-ohne-Zweck-Schnarchlahm-bis-super-performant-11169921.html)) explains just for the fun of it some Stupid Sorts like Void Sort, Stalin Sort, Bogo Sort and more.
 
 ## Copyright
 
